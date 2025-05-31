@@ -44,7 +44,7 @@ This scraper is part of my **Upwork portfolio** and showcases my skills in **web
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/job-listings-scraper.git
+   git clone https://github.com/yourusername/job-list-scraper.git
    ```
    ```bash
    cd job-listings-scraper
